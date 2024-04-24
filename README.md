@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizanwani133" alt="faizanwani133" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [http://faixanw.netlify.app/](http://faixanw.netlify.app/)
 
 - 💬 Ask me about **React , Redux , Node JS , Express , MongoDB , Chakra UI , Json Server , DSA**
 
-- 📫 How to reach me **wfaizan133@gmail.com**
+- 📫 How to reach me **faizan.wani133@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/u/1/uc?id=1Gop4PetnFzT8rh_jaB7ag5TYymIXvw8q&export=download](https://drive.google.com/u/1/uc?id=1Gop4PetnFzT8rh_jaB7ag5TYymIXvw8q&export=download)
 
