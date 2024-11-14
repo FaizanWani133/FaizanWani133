@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **faizan.wani133@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/u/1/uc?id=1Gop4PetnFzT8rh_jaB7ag5TYymIXvw8q&export=download](https://drive.google.com/u/1/uc?id=1Gop4PetnFzT8rh_jaB7ag5TYymIXvw8q&export=download)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GkpDuCDdAKA2hmVm78rNyqxOnPDZgRsW/view?usp=drive_link](https://drive.google.com/file/d/1GkpDuCDdAKA2hmVm78rNyqxOnPDZgRsW/view?usp=drive_link)
 
 - ⚡ Fun fact **I want to skydive inside while(true){}**
 
