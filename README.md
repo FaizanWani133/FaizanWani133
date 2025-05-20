@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizanwani133" alt="faizanwani133" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [http://faizanwani.site/](http://faizanwani.site/)
+- 👨‍💻 All of my projects are available at [http://faizanwani.in/](http://faizanwani.in/)
 
 - 💬 Ask me about **React , Redux , Node JS , Express , MongoDB , Chakra UI , Json Server , DSA**
 
